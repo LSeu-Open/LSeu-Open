@@ -16,9 +16,11 @@
 <img align="left" alt="Numpy" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />
 <img align="left" alt="Pandas" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
 <img align="left" alt="Spicy" height="30" src="https://scipy.org/images/logo.svg" />
+<img align="left" alt="Conda" height="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.TH29CBiHeScGDph4UhmVfAHaHx%26pid%3DApi&f=1&ipt=f8d168a505614fc9d26311319c6026d2f9967149d24742ce2fdf199f880776d0&ipo=images" />
 <img align="left" alt="Tensorflow" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tensorflow.svg" />
 <img align="left" alt="VisPy" height="30" src="https://vispy.org/_static/vispy-teaser-short.png" />
 <img align="left" alt="Tensorflow" height="30px" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.png" />
+
 <br />
 
 ##### Python package i use on a weekly basis
