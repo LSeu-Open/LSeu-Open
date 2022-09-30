@@ -16,8 +16,8 @@
 <img align="left" alt="Numpy" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />
 <img align="left" alt="Pandas" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
 <img align="left" alt="Spicy" height="30" src="https://scipy.org/images/logo.svg" />
-<img align="left" alt="VisPy" height="30" src="https://vispy.org/_static/vispy-teaser-short.png" />
 <img align="left" alt="Tensorflow" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tensorflow.svg" />
+<img align="left" alt="VisPy" height="30" src="https://vispy.org/_static/vispy-teaser-short.png" />
 <img align="left" alt="Tensorflow" height="30px" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.png" />
 <br />
 
