@@ -1,5 +1,7 @@
 ### GM people from all places ! 
 
+--------------
+
 ### I'm Lucas, engineer in Neurosciences field and bioinformatics
 
 - 🔭 I’m currently working on Cortical development 
