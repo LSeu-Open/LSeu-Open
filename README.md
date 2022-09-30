@@ -29,8 +29,16 @@
 <img align="left" alt="Matplotlib" height="30" src="https://camo.githubusercontent.com/109927a15915074d15313889468aa9aa688de3b9e38cc4359a01f665d351114e/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" />
 <img align="left" alt="Seaborn" height="30" src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" />
 <img align="left" alt="scikit" height="30" src="https://scikit-image.org/_static/img/logo.png" />
-
 <br />
+
+##### Languages i am used to
+<img align="left" alt="Python" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Jupyter" height="30" src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png" />
+<img align="left" alt="Matlab" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
+<img align="left" alt="C" height="30" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
+<img align="left" alt="MySQL" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<br />
+
 
 
 
