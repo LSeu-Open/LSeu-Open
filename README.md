@@ -1,16 +1,34 @@
-### Hi there 👋
+### GM people from all places ! 
 
-<!--
-**LSeu-994/LSeu-994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Lucas, engineer in Neurosciences field and bioinformatics
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Cortical development 
+- 👯 I’m looking to collaborate on Cell segmentation and 3D rendered data
+- ⚡ My main focus is on fluorescence imaging process using machine learning and deep learning tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Feel free to contact me for any discussion or collaboration !
+
+##### Data science tools i use for my research job
+
+<img align="left" alt="Python" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" />
+<img align="left" alt="Numpy" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />
+<img align="left" alt="Pandas" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
+<img align="left" alt="Spicy" height="30" src="https://scipy.org/images/logo.svg" />
+<img align="left" alt="VisPy" height="30" src="https://vispy.org/_static/vispy-teaser-short.png" />
+<img align="left" alt="Tensorflow" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tensorflow.svg" />
+<img align="left" alt="Tensorflow" height="30px" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.png" />
+<br />
+
+##### Python package i use on a weekly basis
+
+<img align="left" alt="Cellpose" height="30" src="https://raw.githubusercontent.com/kevinjohncutler/cellpose/master/cellpose/logo/logo.png?raw=True" />
+<img align="left" alt="Brainrender" height="30" src="https://github.com/LSeu-994/brainrender/blob/master/imgs/three_atlases.png" />
+<img align="left" alt="Cupy" height="30" src="https://raw.githubusercontent.com/cupy/cupy/master/docs/image/cupy_logo_1000px.png" />
+<img align="left" alt="Matplotlib" height="30" src="https://camo.githubusercontent.com/109927a15915074d15313889468aa9aa688de3b9e38cc4359a01f665d351114e/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" />
+<img align="left" alt="Seaborn" height="30" src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" />
+<br />
+
+
+
+
+
