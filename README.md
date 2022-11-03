@@ -25,7 +25,7 @@
 
 <br />
 
-##### Python package i use on a weekly basis
+##### Python package i use on a monthly basis
 
 <img align="left" alt="Cellpose" height="30" src="https://raw.githubusercontent.com/kevinjohncutler/cellpose/master/cellpose/logo/logo.png?raw=True" />
 <img align="left" alt="Brainrender" height="30" src="https://github.com/LSeu-994/brainrender/blob/master/imgs/three_atlases.png" />
