@@ -1,6 +1,7 @@
-### GM people from all places ! 
 
-:arrow_backward: Generated using DALL.E 2
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=750&color=F70000&center=true&vCenter=true&width=1250&lines=Hello+!+i'm+Lucas;Engineer+in+the+Neuroscience+Field+;I+use+deep+learning+tools+for+biological+imaging+processing;Segmentation%2C+classification%2C+3d+reconstruction" alt="Typing SVG" /></a>
+</p>
 
 --------------
 
