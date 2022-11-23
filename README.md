@@ -4,15 +4,16 @@
 
 --------------
 
-### I am Lucas, engineer in a neuroscience research laboratory.
+### I am Lucas, an engineer in a neuroscience research laboratory.
 
-- 🔭 I’m currently working on Cortical development 
-- 👯 I’m looking to collaborate on Cell segmentation and 3D rendered data
-- ⚡ My main focus is on fluorescence imaging process using machine learning and deep learning tools
+- 🔭 I am currently working on the cortical development.
+- 👯 I am looking to collaborate on cell segmentation and 3D rendered data.
+- ⚡ My main focus is on processing fluorescence imaging using machine learning and deep learning tools.
 
-##### Feel free to contact me for any discussion or collaboration !
+##### Do not hesitate to contact me for any discussion or collaboration!
 
-##### Data science tools i use for my research job
+
+##### Data science tools I use for my research work
 
 <img align="left" alt="Python" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" />
 <img align="left" alt="Numpy" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />
@@ -25,7 +26,7 @@
 
 <br />
 
-##### Python package i use on a monthly basis
+##### Python package I use every month
 
 <img align="left" alt="Cellpose" height="30" src="https://raw.githubusercontent.com/kevinjohncutler/cellpose/master/cellpose/logo/logo.png?raw=True" />
 <img align="left" alt="Brainrender" height="30" src="https://github.com/LSeu-994/brainrender/blob/master/imgs/three_atlases.png" />
