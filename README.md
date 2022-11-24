@@ -14,9 +14,10 @@
 <div align="center">  
   
 ### Data science tools 
-  
-<img alt="Python" height="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" />
+
+<a href="https://github.com/numpy/numpy" target="_blank">  
 <img alt="Numpy" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />
+</a>
 <img alt="Pandas" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
 <img alt="Spicy" height="50px" src="https://scipy.org/images/logo.svg" />
 <img alt="Conda" height="50px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.TH29CBiHeScGDph4UhmVfAHaHx%26pid%3DApi&f=1&ipt=f8d168a505614fc9d26311319c6026d2f9967149d24742ce2fdf199f880776d0&ipo=images" />
