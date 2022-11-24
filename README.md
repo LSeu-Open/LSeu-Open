@@ -1,15 +1,11 @@
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=750&color=F70000&center=true&vCenter=true&width=1250&lines=Hello+!+i'm+Lucas;Engineer+in+the+Neuroscience+Field+;I+use+deep+learning+tools+for+biological+imaging+processing;Segmentation%2C+classification%2C+3d+reconstruction" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=250&color=F70000&center=true&vCenter=true&width=1500&lines=Hello+World+i'm+Lucas;Engineer+in+a+Neuroscience+Lab;I+use+deep+learning++and+data+science+tools;Mainly+Cell+segmentation%2C+morphological+analysis+and+3D+reconstruction;Feel+free+to+contact+me+!" alt="Typing SVG" /></a>
 </p>
 
 --------------
 
-### I am Lucas, an engineer in a neuroscience research laboratory.
-
-- 🔭 I am currently working on the cortical development.
-- 👯 I am looking to collaborate on cell segmentation and 3D rendered data.
-- ⚡ My main focus is on processing fluorescence imaging using machine learning and deep learning tools.
+- 🔭 I am currently working on the cortical development patholigies.
 
 ##### Do not hesitate to contact me for any discussion or collaboration!
 
