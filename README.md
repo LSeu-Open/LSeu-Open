@@ -44,12 +44,22 @@
  
 ### Python packages 
   
-<img alt="Cellpose" height="50px" src="https://raw.githubusercontent.com/kevinjohncutler/cellpose/master/cellpose/logo/logo.png?raw=True" />
+<a href="https://github.com/brainglobe/brainrender" target="_blank">      
 <img alt="Brainrender" height="50px" src="https://github.com/LSeu-994/brainrender/blob/master/imgs/three_atlases.png" />
+</a>  
+<a href="https://github.com/MouseLand/cellpose" target="_blank">      
+<img alt="Cellpose" height="50px" src="https://raw.githubusercontent.com/kevinjohncutler/cellpose/master/cellpose/logo/logo.png?raw=True" />
+</a>
+<a href="https://github.com/cupy/cupy" target="_blank">      
 <img alt="Cupy" height="50px" src="https://raw.githubusercontent.com/cupy/cupy/master/docs/image/cupy_logo_1000px.png" />
+</a>
+<a href="https://github.com/matplotlib/matplotlib" target="_blank">      
 <img alt="Matplotlib" height="50px" src="https://camo.githubusercontent.com/109927a15915074d15313889468aa9aa688de3b9e38cc4359a01f665d351114e/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" />
+</a>
+<a href="https://github.com/mwaskom/seaborn" target="_blank">      
 <img alt="Seaborn" height="50px" src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" />
-</div>
+</a>
+  </div>
 
 </td><td valign="top" width="33%">
   
