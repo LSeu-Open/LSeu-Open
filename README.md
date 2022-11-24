@@ -14,16 +14,26 @@
 <div align="center">  
   
 ### Data science tools 
-
+  
 <a href="https://github.com/numpy/numpy" target="_blank">  
 <img alt="Numpy" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />
 </a>
+<a href="https://github.com/pandas-dev/pandas" target="_blank">  
 <img alt="Pandas" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
+</a>
+<a href="https://github.com/pytorch/pytorch" target="_blank">  
+<img alt="pytorch" height="50px" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.png" />
+</a>
+<a href="https://scipy.org" target="_blank">  
 <img alt="Spicy" height="50px" src="https://scipy.org/images/logo.svg" />
-<img alt="Conda" height="50px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.TH29CBiHeScGDph4UhmVfAHaHx%26pid%3DApi&f=1&ipt=f8d168a505614fc9d26311319c6026d2f9967149d24742ce2fdf199f880776d0&ipo=images" />
+</a>
+<a href="https://github.com/tensorflow/tensorflow" target="_blank">  
 <img alt="Tensorflow" height="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tensorflow.svg" />
+</a>
+<a href="https://github.com/vispy/vispy" target="_blank">    
 <img alt="VisPy" height="50px" src="https://vispy.org/_static/vispy-teaser-short.png" />
-<img alt="Tensorflow" height="50px" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.png" />
+</a>
+
 </div>
 
 </td><td valign="top" width="33%">
@@ -37,7 +47,6 @@
 <img alt="Cupy" height="50px" src="https://raw.githubusercontent.com/cupy/cupy/master/docs/image/cupy_logo_1000px.png" />
 <img alt="Matplotlib" height="50px" src="https://camo.githubusercontent.com/109927a15915074d15313889468aa9aa688de3b9e38cc4359a01f665d351114e/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" />
 <img alt="Seaborn" height="50px" src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" />
-<img alt="scikit" height="50px" src="https://scikit-image.org/_static/img/logo.png" />
 </div>
 
 </td><td valign="top" width="33%">
@@ -48,9 +57,10 @@
   
 <img alt="Python" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img alt="Jupyter" height="50px" src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png" />
-<img alt="Matlab" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
 <img alt="C" height="50px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
-<img alt="MySQL" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img alt="Java" height="50px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
+<img alt="html5" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img alt="css" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 </div>
 
 </td></tr></table>  
