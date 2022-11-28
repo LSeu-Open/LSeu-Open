@@ -6,7 +6,7 @@
 --------------
 
 <div align="center">  
-:brain: I am currently working on pathologies of cortical development.
+:brain: I am currently working on pathologies of cortical development in France
 </div>
 
 <br>
