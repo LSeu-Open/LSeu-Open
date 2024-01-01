@@ -1,12 +1,12 @@
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=250&color=F70000&center=true&vCenter=true&width=1500&lines=Hello+World+i'm+Lucas;Engineer+in+a+Neuroscience+Lab;I+use+deep+learning++and+data+science+tools;Mainly+Cell+segmentation%2C+morphological+analysis+and+3D+reconstruction;Feel+free+to+contact+me+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1500&pause=1000&color=F70404&center=true&vCenter=true&random=false&width=1500&lines=Hello+there+!;Welcome+to+my+github+profile;I'm+an+Engineer+in+a+Neuroscience+research+Lab;Feel+free+to+get+in+touch" alt="Typing SVG" /></a>
 </p>
 
 --------------
 
 <div align="center">  
-:brain: I am currently working on pathologies of cortical development in France
+:brain: I am currently working on pathologies of cortical development projects
 </div>
 
 <br>
