@@ -15,7 +15,7 @@
 
 <div align="center">  
   
-### Data science tools 
+### Data science Libraries 
   
 <a href="https://github.com/numpy/numpy" target="_blank">  
 <img alt="Numpy" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />
