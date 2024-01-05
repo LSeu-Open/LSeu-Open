@@ -32,9 +32,6 @@
 <a href="https://github.com/tensorflow/tensorflow" target="_blank">  
 <img alt="Tensorflow" height="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tensorflow.svg" />
 </a>
-<a href="https://github.com/vispy/vispy" target="_blank">    
-<img alt="VisPy" height="50px" src="https://vispy.org/_static/vispy-teaser-short.png" />
-</a>
 
 </div>
 
@@ -42,7 +39,7 @@
 
 <div align="center">
  
-### Python packages 
+### Python Libraries 
   
 <a href="https://github.com/brainglobe/brainrender" target="_blank">      
 <img alt="Brainrender" height="50px" src="https://github.com/LSeu-994/brainrender/blob/master/imgs/three_atlases.png" />
