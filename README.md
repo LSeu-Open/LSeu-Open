@@ -5,6 +5,13 @@
 
 --------------
 
+<p align="center">
+  <br>
+    <img width="300" src="logo.svg" style="border-radius: 10px;" alt="nicelogo">
+ <br>
+ <br>
+</p>
+
 <div align="center">
   
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=plastic)
