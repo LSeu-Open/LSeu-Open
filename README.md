@@ -1,18 +1,9 @@
-
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1500&pause=1000&color=F70404&center=true&vCenter=true&random=false&width=1500&lines=Hello+there+!;Welcome+to+my+github+profile;I'm+an+Engineer+in+a+Neuroscience+research+Lab;Feel+free+to+get+in+touch" alt="Typing SVG" /></a>
-</p>
-
---------------
-
-<p align="center">
-  <br>
-    <img width="300" src="logo.svg" style="border-radius: 10px;" alt="nicelogo">
- <br>
- <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&text=Hello%20there!&fontSize=30&fontAlignY=35&reversal=false&section=header&desc=I'm%20an%20engineer%20in%20a%20neuroscience%20lab&fontColor=141414"/>
 </p>
 
 <div align="center">
+<h4>Languages</h4> 
   
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=plastic)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&style=plastic)
@@ -28,6 +19,7 @@
 <br>
 
 <div align="center">
+<h4>Data Science tools i use</h4> 
   
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black&style=plastic)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&style=plastic)
@@ -49,6 +41,7 @@
 <br>
 
 <div align="center">
+<h4>You can find me on</h4> 
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=plastic)](https://github.com/LSeu-Open)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&style=plastic)](https://www.kaggle.com/lucas9475)
@@ -56,3 +49,10 @@
 
 
 <div/>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&fontSize=30&fontAlignY=35&reversal=false&section=footer"/>
+</p>
+
+
