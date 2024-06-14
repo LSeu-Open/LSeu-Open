@@ -5,8 +5,8 @@
 <div align="center">
   
 <h3>Hello there ! 🖖 </h3>
-<h4>Currently an Engineer in a Neuroscience Research Lab</h4>
-<h4>Data Science, Image Analysis, App Development, and 3D Reconstruction</h4>
+<h4>Engineer in a Neuroscience Research Lab</h4>
+<h4>Data Science, Image Analysis, 3D Reconstruction, App Development</h4>
 
 <br>
   
