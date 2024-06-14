@@ -19,6 +19,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" alt="java" height="42px"/>
 <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg" alt="javascript" height="42px"/>
 <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" alt="python" height="42px"/>
+<img align="center" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="R" height="30px"/>
 
 <br> 
 <br> 
@@ -35,6 +36,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/>
 <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" alt="react" height="42px"/>
 <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/>
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvV6blLTEfb6Uc1jzwqlv4qg_2xz4_lyHRn9hoLYk3NDda-ZIRD5eDT3RN_w7uGw7zctU&usqp=CAU" alt="react" height="42px"/>
 
 <br> 
 <br> 
