@@ -27,8 +27,11 @@
 
 <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/angular/angular.svg" alt="angular" height="42px"/>
 <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bootstrap/bootstrap.svg" alt="bootstrap" height="42px"/>
+<img align="center" src="https://imgs.search.brave.com/9FjJVQsPoJU77UHRVrcN8XfdqE00pqnwMbQbYiYLPDE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L1RlY2hub2xvZ3kv/c3ZnL0tlcmFzLnN2/Zw.svg" alt="keras" height="35px"/>
 <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/material-ui/material-ui.svg" alt="material-ui" height="42px"/>
 <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/materialize/materialize.svg" alt="materialize" height="42px"/>
+<img align="center" src="https://www.svgrepo.com/show/373938/numpy.svg" alt="numpy" height="38px"/>
+<img align="center" src="https://www.svgrepo.com/show/473742/pandas.svg" alt="pandas" height="38px"/>
 <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/>
 <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" alt="react" height="42px"/>
 <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/>
@@ -40,7 +43,7 @@
 
 <img align="center" src="https://cdn.icon-icons.com/icons2/673/PNG/512/Android_icon-icons.com_60488.png" alt="andoird" height="35px"/>
 <img align="center" src="https://cdn.icon-icons.com/icons2/159/PNG/256/logo_linux_mint_22361.png" alt="Linux Mint" height="35px"/>
-<img align="center" src="https://cdn.icon-icons.com/icons2/673/PNG/512/windows_icon-icons.com_60494.png" alt="Windows 11" height="35px"/>
+<img align="center" src="https://www.svgrepo.com/show/382713/windows-applications.svg" alt="Windows 11" height="35px"/>
 
 </div>
 
