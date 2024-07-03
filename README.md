@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient"/>
-</p>
+![Header](Banner_lseu_top.png)
 
 <div align="center">
   
-<h3>Hello there ! 🖖 </h3>
 <h4>Engineer in a Neuroscience Research Lab</h4>
 <h4>Data Science, Image Analysis, 3D Reconstruction, App Development</h4>
 
@@ -61,13 +58,6 @@
 <img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kaggle_logo_icon_168473.png" alt="kaggle" height="35px"/>
 <img align="center" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Stack_Overflow_icon-icons.com_66761.png" alt="Stack_Overflow" height="35px"/>
 
-
-
 <div/>
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&fontSize=30&fontAlignY=35&reversal=false&section=footer"/>
-</p>
-
-
+![Footer](Banner_lseu_bottom.png)
