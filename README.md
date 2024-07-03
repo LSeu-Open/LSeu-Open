@@ -2,10 +2,9 @@
 
 <div align="center">
   
-<h4>Engineer in a Neuroscience Research Lab</h4>
+<h3>Engineer in a Neuroscience Research Lab</h4>
 <h4>Data Science, Image Analysis, 3D Reconstruction, App Development</h4>
 
-<br>
   
 <h4>👨‍💻 Languages</h4> 
 
@@ -25,7 +24,6 @@
 
 <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/angular/angular.svg" alt="angular" height="42px"/>
 <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bootstrap/bootstrap.svg" alt="bootstrap" height="42px"/>
-<img align="center" src="https://imgs.search.brave.com/9FjJVQsPoJU77UHRVrcN8XfdqE00pqnwMbQbYiYLPDE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L1RlY2hub2xvZ3kv/c3ZnL0tlcmFzLnN2/Zw.svg" alt="keras" height="35px"/>
 <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/material-ui/material-ui.svg" alt="material-ui" height="42px"/>
 <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/materialize/materialize.svg" alt="materialize" height="42px"/>
 <img align="center" src="https://www.svgrepo.com/show/373938/numpy.svg" alt="numpy" height="38px"/>
@@ -59,5 +57,7 @@
 <img align="center" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Stack_Overflow_icon-icons.com_66761.png" alt="Stack_Overflow" height="35px"/>
 
 <div/>
+
+<br>
 
 ![Footer](Banner_lseu_bottom.png)
