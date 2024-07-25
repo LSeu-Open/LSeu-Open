@@ -33,6 +33,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/>
 <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdpycjSlZFDPKPkGhrnzhndbdvwOXhl0qJi2gJ-GdOY3q4zGES2aaK215OejeKCH01oac" alt="Shiny" height="42px"/>
 <img align="center" src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit" height="20px"/>
+<img align="center" src="https://avatars.githubusercontent.com/u/51063788?s=48&v=4" alt="Gradio" height="30px"/>
 
 <br> 
 <br> 
