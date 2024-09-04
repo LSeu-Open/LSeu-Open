@@ -38,6 +38,19 @@
 <br> 
 <br> 
 
+<h4>⌨️ Tools </h4> 
+
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyPWw5wx7OUOqDXQ5cODr5_JqwAU44doNl7Q&s" alt="Ollama" height="35px"/>
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/1200px-2023_Obsidian_logo.svg.png" alt="Obsidian" height="35px"/>
+<img align="center" src="https://occasionaldivergences.com/posts/positron-intro/figures/positron-logo.png" alt="Positron" height="35px"/>
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoirCtiJhhN8Tvo0FJRRd4CInsOXkRX9EbA&s" alt="VS Code" height="35px"/>
+<img align="center" src="https://www.docker.com/wp-content/uploads/2023/05/symbol_blue-docker-logo.png" alt="Docker" height="25px"/>
+<img align="center" src="https://miro.medium.com/v2/resize:fit:800/0*zWCTHFNFdGAgSw2d" alt="Cursor" height="35px"/>
+<img align="center" src="https://pbs.twimg.com/profile_images/907270522492383232/8wgOvccc_400x400.jpg" alt="SourceTree" height="35px"/>
+
+<br> 
+<br> 
+
 <h4>💻 Operating systems</h4>
 
 <img align="center" src="https://cdn.icon-icons.com/icons2/673/PNG/512/Android_icon-icons.com_60488.png" alt="andoird" height="35px"/>
