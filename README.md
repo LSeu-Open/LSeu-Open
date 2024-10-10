@@ -24,8 +24,6 @@
 
 <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/angular/angular.svg" alt="angular" height="42px"/>
 <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bootstrap/bootstrap.svg" alt="bootstrap" height="42px"/>
-<img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/material-ui/material-ui.svg" alt="material-ui" height="42px"/>
-<img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/materialize/materialize.svg" alt="materialize" height="42px"/>
 <img align="center" src="https://www.svgrepo.com/show/373938/numpy.svg" alt="numpy" height="38px"/>
 <img align="center" src="https://www.svgrepo.com/show/473742/pandas.svg" alt="pandas" height="38px"/>
 <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/>
