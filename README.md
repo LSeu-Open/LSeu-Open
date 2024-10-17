@@ -22,12 +22,16 @@
 
 <h4>🧰 Frameworks and Libraries</h4>
 
-<img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/angular/angular.svg" alt="angular" height="42px"/>
-<img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bootstrap/bootstrap.svg" alt="bootstrap" height="42px"/>
 <img align="center" src="https://www.svgrepo.com/show/373938/numpy.svg" alt="numpy" height="38px"/>
 <img align="center" src="https://www.svgrepo.com/show/473742/pandas.svg" alt="pandas" height="38px"/>
+<img align="center" src="https://cdn.icon-icons.com/icons2/3914/PNG/512/scipy_logo_icon_248581.png" alt="scipy" height="38px"/>
+<img align="center" src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="Matplotlib" height="38px"/>
+<img align="center" src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="Seaborn" height="38px"/>
+<img align="center" src="https://numfocus.org/wp-content/uploads/2017/11/bokeh-logo-300.png" alt="Bokeh" height="50px"/>
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6UTPV9TTPThzYSFv8Ps9o4hdlr84SRn_f5g&s" alt="Plotly" height="38px"/>
+<br> 
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Scikit-image_logo.png" alt="Scikit Image" height="38px"/>
 <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/>
-<img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" alt="react" height="42px"/>
 <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/>
 <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdpycjSlZFDPKPkGhrnzhndbdvwOXhl0qJi2gJ-GdOY3q4zGES2aaK215OejeKCH01oac" alt="Shiny" height="42px"/>
 <img align="center" src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit" height="20px"/>
