@@ -41,18 +41,18 @@
 <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyPWw5wx7OUOqDXQ5cODr5_JqwAU44doNl7Q&s" alt="Ollama" height="35px"/>
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/1200px-2023_Obsidian_logo.svg.png" alt="Obsidian" height="35px"/>
 <img align="center" src="https://occasionaldivergences.com/posts/positron-intro/figures/positron-logo.png" alt="Positron" height="35px"/>
-<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoirCtiJhhN8Tvo0FJRRd4CInsOXkRX9EbA&s" alt="VS Code" height="35px"/>
+<img align="center" src="https://ai-cursor.com/wp-content/uploads/2024/09/logo-cursor-ai-png.webp" alt="Cursor" height="35px"/>
 <img align="center" src="https://www.docker.com/wp-content/uploads/2023/05/symbol_blue-docker-logo.png" alt="Docker" height="25px"/>
-<img align="center" src="https://miro.medium.com/v2/resize:fit:800/0*zWCTHFNFdGAgSw2d" alt="Cursor" height="35px"/>
-<img align="center" src="https://pbs.twimg.com/profile_images/907270522492383232/8wgOvccc_400x400.jpg" alt="SourceTree" height="35px"/>
+<img align="center" src="https://w7.pngwing.com/pngs/191/175/png-transparent-sourcetree-alt-macos-bigsur-icon-thumbnail.png" alt="SourceTree" height="35px"/>
 
 <br> 
 <br> 
 
 <h4>💻 Operating systems</h4>
 
-<img align="center" src="https://cdn.icon-icons.com/icons2/673/PNG/512/Android_icon-icons.com_60488.png" alt="andoird" height="35px"/>
-<img align="center" src="https://cdn.icon-icons.com/icons2/159/PNG/256/logo_linux_mint_22361.png" alt="Linux Mint" height="35px"/>
+<img align="center" src="https://grapheneos.org/780febcc.mask-icon.svg" alt="GrapheneOS" height="35px"/>
+<img align="center" src="https://icon2.cleanpng.com/20180504/zxe/avseyqa3a.webp" alt="Linux" height="35px"/>
+<img align="center" src="https://asahilinux.org/img/AsahiLinux_logomark.svg" alt="Asahi Linux" height="35px"/>
 <img align="center" src="https://www.svgrepo.com/show/382713/windows-applications.svg" alt="Windows 11" height="35px"/>
 
 </div>
