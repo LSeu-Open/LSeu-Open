@@ -41,8 +41,7 @@
 <h4>Operating systems</h4>
 
 <img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" alt="Android" height="20px"/>
-<img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Manjaro/manjaro2.svg" alt="Linux1" height="20px"/>
-<img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg" alt="Linux2" height="20px"/>
+<img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg" alt="Linux1" height="20px"/>
 <img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailsOS/tailsos2.svg" alt="Linux2" height="20px"/>
 <img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows112.svg" alt="Windows 11" height="20px"/>
 
