@@ -76,8 +76,7 @@
 
 <h4> Find me on</h4> 
 
-<a href="https://discord.com/users/your-user-id" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg" alt="Discord" height="20px"/></a>
-<a href="https://github.com/your-username" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="github" height="20px"/></a>
+<a href="https://github.com/LSeu-Open" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="github" height="20px"/></a>
 
 </div>
 
