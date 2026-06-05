@@ -1,5 +1,5 @@
 <svg width="137" height="30" viewBox="0 0 137 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="137" height="30" rx="15" fill="#FFE2CC"/>
-  <g transform="translate(13 6) scale(0.75)" fill="#803800"><path d="M1.292 5.856L11.54 0v24l-4.095-2.378V7.603l-6.168 3.564.015-5.31zm21.43 5.311l-.014-5.31L12.46 0v24l4.095-2.378V14.87l3.092 1.788-.018-4.618-3.074-1.756V7.603l6.168 3.564z"/></g>
-  <text x="38" y="20" textLength="85" lengthAdjust="spacingAndGlyphs" font-family="Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="700" fill="#803800">TensorFlow</text>
+  <rect width="137" height="30" rx="15" fill="#D6E4F2"/>
+  <g transform="translate(13 6) scale(0.75)" fill="#1E5AA0"><path d="M1.292 5.856L11.54 0v24l-4.095-2.378V7.603l-6.168 3.564.015-5.31zm21.43 5.311l-.014-5.31L12.46 0v24l4.095-2.378V14.87l3.092 1.788-.018-4.618-3.074-1.756V7.603l6.168 3.564z"/></g>
+  <text x="38" y="20" textLength="85" lengthAdjust="spacingAndGlyphs" font-family="Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="700" fill="#1E5AA0">TensorFlow</text>
 </svg>

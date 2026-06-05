@@ -18,35 +18,53 @@ import urllib.request
 HERE = os.path.dirname(os.path.abspath(__file__))
 CDN = "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/{}.svg"
 
-# name -> (label, [icon-slug candidates], brand_hex)
+# Unified "Cool Professional" palette: the color encodes the CATEGORY, the
+# logo identifies the specific tool. Each entry is (background, foreground).
+# Edit one pair to recolor an entire category at once, then re-run.
+PALETTE = {
+    "links": ("#DCE3EF", "#243B66"),  # navy
+    "lang":  ("#DBDFF0", "#2D3A7A"),  # indigo
+    "ml":    ("#D6E4F2", "#1E5AA0"),  # blue
+    "web":   ("#D6EAF2", "#1A6E94"),  # sky
+    "test":  ("#D6EEE8", "#157065"),  # teal
+    "tools": ("#DEE1EA", "#3F4A66"),  # slate
+}
+
+# name -> (label, [icon-slug candidates], category)
 BADGES = [
     # --- Header / links ---
-    ("orcid",            "ORCID",            ["orcid"],            "#A6CE39"),
-    ("semanticscholar",  "Semantic Scholar", ["semanticscholar"], "#1857B6"),
-    ("github",           "GitHub",           ["github"],          "#181717"),
+    ("orcid",            "ORCID",            ["orcid"],            "links"),
+    ("semanticscholar",  "Semantic Scholar", ["semanticscholar"], "links"),
+    ("github",           "GitHub",           ["github"],          "links"),
     # --- Languages ---
-    ("python",           "Python",           ["python"],          "#3776AB"),
-    ("r",                "R",                ["r"],               "#276DC3"),
-    ("rust",             "Rust",             ["rust"],            "#000000"),
-    ("typescript",       "TypeScript",       ["typescript"],      "#3178C6"),
-    ("javascript",       "JavaScript",       ["javascript"],      "#C9A800"),
-    ("shell",            "Shell",            ["gnubash"],         "#4EAA25"),
+    ("python",           "Python",           ["python"],          "lang"),
+    ("r",                "R",                ["r"],               "lang"),
+    ("rust",             "Rust",             ["rust"],            "lang"),
+    ("typescript",       "TypeScript",       ["typescript"],      "lang"),
+    ("javascript",       "JavaScript",       ["javascript"],      "lang"),
+    ("shell",            "Shell",            ["gnubash"],         "lang"),
     # --- Data Science & ML ---
-    ("pytorch",          "PyTorch",          ["pytorch"],         "#EE4C2C"),
-    ("tensorflow",       "TensorFlow",       ["tensorflow"],      "#FF6F00"),
+    ("pytorch",          "PyTorch",          ["pytorch"],         "ml"),
+    ("tensorflow",       "TensorFlow",       ["tensorflow"],      "ml"),
     # --- Web & App ---
-    ("svelte",           "Svelte",           ["svelte"],          "#FF3E00"),
-    ("astro",            "Astro",            ["astro"],           "#BC52EE"),
-    ("vite",             "Vite",             ["vite", "vitejs"],  "#646CFF"),
-    ("nodejs",           "Node.js",          ["nodedotjs"],       "#5FA04E"),
-    ("html",             "HTML5",            ["html5"],           "#E34F26"),
-    ("css",              "CSS",              ["css", "css3"],     "#1572B6"),
-    ("nginx",            "NGINX",            ["nginx"],           "#009639"),
+    ("svelte",           "Svelte",           ["svelte"],          "web"),
+    ("astro",            "Astro",            ["astro"],           "web"),
+    ("vite",             "Vite",             ["vite", "vitejs"],  "web"),
+    ("nodejs",           "Node.js",          ["nodedotjs"],       "web"),
+    ("html",             "HTML5",            ["html5"],           "web"),
+    ("css",              "CSS",              ["css", "css3"],     "web"),
+    ("nginx",            "NGINX",            ["nginx"],           "web"),
+    # --- Testing ---
+    ("pytest",           "pytest",           ["pytest"],          "test"),
+    ("vitest",           "Vitest",           ["vitest"],          "test"),
+    ("playwright",       "Playwright",       ["playwright"],      "test"),
+    ("stryker",          "Stryker",          ["stryker"],         "test"),
     # --- Data & Tools ---
-    ("sqlite",           "SQLite",           ["sqlite"],          "#0A5C8A"),
-    ("mysql",            "MySQL",            ["mysql"],           "#4479A1"),
-    ("git",              "Git",              ["git"],             "#F05032"),
-    ("docker",           "Docker",           ["docker"],          "#2496ED"),
+    ("sqlite",           "SQLite",           ["sqlite"],          "tools"),
+    ("mysql",            "MySQL",            ["mysql"],           "tools"),
+    ("git",              "Git",              ["git"],             "tools"),
+    ("docker",           "Docker",           ["docker"],          "tools"),
+    ("podman",           "Podman",           ["podman"],          "tools"),
 ]
 
 # Approx glyph advance (px) for a 15px bold sans; only used to size the pill
@@ -71,22 +89,6 @@ def text_width(s):
     return sum(char_w(c) for c in s)
 
 
-def hex_to_rgb(h):
-    h = h.lstrip("#")
-    return tuple(int(h[i:i + 2], 16) for i in (0, 2, 4))
-
-
-def rgb_to_hex(rgb):
-    return "#%02X%02X%02X" % tuple(max(0, min(255, round(c))) for c in rgb)
-
-
-def blend(hex_color, target, t):
-    r, g, b = hex_to_rgb(hex_color)
-    return rgb_to_hex((r + (target - r) * t,
-                       g + (target - g) * t,
-                       b + (target - b) * t))
-
-
 _logo_cache = {}
 
 
@@ -108,9 +110,8 @@ def fetch_logo(slugs):
     return None
 
 
-def build(name, label, slugs, brand):
-    bg = blend(brand, 255, 0.80)   # pale brand container
-    fg = blend(brand, 0, 0.50)     # dark on-container text/logo
+def build(name, label, slugs, category):
+    bg, fg = PALETTE[category]
     logo = fetch_logo(slugs)
 
     tw = round(text_width(label))

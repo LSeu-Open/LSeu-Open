@@ -1,0 +1,5 @@
+<svg width="94" height="30" viewBox="0 0 94 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="94" height="30" rx="15" fill="#D6EEE8"/>
+  <g transform="translate(13 6) scale(0.75)" fill="#157065"><path d="M11.545 23.3a.613.613 0 0 1-.895.197L.252 15.936A.61.61 0 0 1 0 15.439V6.325c0-.502.569-.792.975-.497l6.358 4.624c.594.433 1.432.25 1.793-.39L14.393.7a.62.62 0 0 1 .535-.314h8.455a.613.613 0 0 1 .537.916z"/></g>
+  <text x="38" y="20" textLength="42" lengthAdjust="spacingAndGlyphs" font-family="Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="700" fill="#157065">Vitest</text>
+</svg>

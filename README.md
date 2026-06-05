@@ -28,37 +28,45 @@
 
 <h4>Languages</h4>
 <p>
-  <img src="badges/python.svg" alt="Python" height="28px"/>
-  <img src="badges/r.svg" alt="R" height="28px"/>
-  <img src="badges/rust.svg" alt="Rust" height="28px"/>
-  <img src="badges/typescript.svg" alt="TypeScript" height="28px"/>
-  <img src="badges/javascript.svg" alt="JavaScript" height="28px"/>
-  <img src="badges/shell.svg" alt="Shell" height="28px"/>
+  <img src="badges/python.svg" alt="Python" height="25px"/>
+  <img src="badges/r.svg" alt="R" height="25px"/>
+  <img src="badges/rust.svg" alt="Rust" height="25px"/>
+  <img src="badges/typescript.svg" alt="TypeScript" height="25px"/>
+  <img src="badges/shell.svg" alt="Shell" height="25px"/>
 </p>
 
 <h4>Data Science & ML</h4>
 <p>
-  <img src="badges/pytorch.svg" alt="PyTorch" height="28px"/>
-  <img src="badges/tensorflow.svg" alt="TensorFlow" height="28px"/>
+  <img src="badges/pytorch.svg" alt="PyTorch" height="25px"/>
+  <img src="badges/tensorflow.svg" alt="TensorFlow" height="25px"/>
 </p>
 
 <h4>Web & App Development</h4>
 <p>
-  <img src="badges/svelte.svg" alt="Svelte" height="28px"/>
-  <img src="badges/astro.svg" alt="Astro" height="28px"/>
-  <img src="badges/vite.svg" alt="Vite" height="28px"/>
-  <img src="badges/nodejs.svg" alt="Node.js" height="28px"/>
-  <img src="badges/html.svg" alt="HTML5" height="28px"/>
-  <img src="badges/css.svg" alt="CSS" height="28px"/>
-  <img src="badges/nginx.svg" alt="NGINX" height="28px"/>
+  <img src="badges/svelte.svg" alt="Svelte" height="25px"/>
+  <img src="badges/astro.svg" alt="Astro" height="25px"/>
+  <img src="badges/vite.svg" alt="Vite" height="25px"/>
+  <img src="badges/nodejs.svg" alt="Node.js" height="25px"/>
+  <img src="badges/html.svg" alt="HTML5" height="25px"/>
+  <img src="badges/css.svg" alt="CSS" height="25px"/>
+  <img src="badges/nginx.svg" alt="NGINX" height="25px"/>
+</p>
+
+<h4>Testing</h4>
+<p>
+  <img src="badges/pytest.svg" alt="pytest" height="25px"/>
+  <img src="badges/vitest.svg" alt="Vitest" height="25px"/>
+  <img src="badges/playwright.svg" alt="Playwright" height="25px"/>
+  <img src="badges/stryker.svg" alt="Stryker" height="25px"/>
 </p>
 
 <h4>Data & Tools</h4>
 <p>
-  <img src="badges/sqlite.svg" alt="SQLite" height="28px"/>
-  <img src="badges/mysql.svg" alt="MySQL" height="28px"/>
-  <img src="badges/git.svg" alt="Git" height="28px"/>
-  <img src="badges/docker.svg" alt="Docker" height="28px"/>
+  <img src="badges/sqlite.svg" alt="SQLite" height="25px"/>
+  <img src="badges/mysql.svg" alt="MySQL" height="25px"/>
+  <img src="badges/git.svg" alt="Git" height="25px"/>
+  <img src="badges/docker.svg" alt="Docker" height="25px"/>
+  <img src="badges/podman.svg" alt="Podman" height="25px"/>
 </p>
 
 </div>
