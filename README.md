@@ -1,9 +1,30 @@
 ![Header](Banner_lseu_top.png)
 
 <div align="center">
-  
-<h3>Engineer in a Neuroscience Research Lab</h4>
-<h4>Data Science, Image Analysis, 3D Reconstruction, App Development</h4>
+
+<h3>Engineer in a Neuroscience Research Lab</h3>
+<h4>Data Science · Image Analysis · 3D Reconstruction · App Development</h4>
+
+<p>
+  Open-source activist and privacy advocate building at the intersection of
+  neuroscience and code — image-analysis pipelines, 3D reconstruction, and apps
+  that turn dense research data into fast, intuitive tools. Always learning.
+</p>
+
+<a href="https://orcid.org/0009-0009-1032-4766">
+  <img src="badges/orcid.svg" alt="ORCID" height="28px"/>
+</a>
+<a href="https://www.semanticscholar.org/author/Lucas-Silvagnoli/2219881223">
+  <img src="badges/semanticscholar.svg" alt="Semantic Scholar" height="28px"/>
+</a>
+<a href="https://github.com/LSeu-Open">
+  <img src="badges/github.svg" alt="GitHub" height="28px"/>
+</a>
+<!-- Website (coming soon) — create badges/website.svg in the same style, then uncomment:
+<a href="WEBSITE_URL_HERE">
+  <img src="badges/website.svg" alt="Website" height="28px"/>
+</a>
+-->
 
 </div>
 
@@ -11,68 +32,46 @@
 
 <div align="center">
 
-  <h4>Languages</h4>
-  <p>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="python" height="20px"/> 
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/R/r2.svg" alt="R" height="20px"/> 
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust2.svg" alt="Rust" height="20px"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell2.svg" alt="Shell" height="20px"/> 
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="javascript" height="20px"/> 
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" alt="Typescript" height="20px"/> 
-   
-  </p>
+<h2>Tech Stack</h2>
 
-  <h4>Data Science & ML</h4>
-  <p>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch2.svg" alt="PyTorch" height="20px"/> 
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TensorFlow/tensorflow2.svg" alt="Tensorflow" height="20px"/>
-  </p>
+<h4>Languages</h4>
+<p>
+  <img src="badges/python.svg" alt="Python" height="20px"/>
+  <img src="badges/r.svg" alt="R" height="20px"/>
+  <img src="badges/rust.svg" alt="Rust" height="20px"/>
+  <img src="badges/typescript.svg" alt="TypeScript" height="20px"/>
+  <img src="badges/javascript.svg" alt="JavaScript" height="20px"/>
+  <img src="badges/shell.svg" alt="Shell" height="20px"/>
+</p>
 
-  <h4>Web & App Development</h4>
-  <p>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="html" height="20px"/> 
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS" height="20px"/> 
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="Node" height="20px"/> 
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Svelte/svelte2.svg" alt="Svelte" height="20px"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro2.svg" alt="Astro" height="20px"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg" alt="Vite" height="20px"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint2.svg" alt="ESlint" height="20px"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx2.svg" alt="Nginx" height="20px"/>
-  </p>
+<h4>Data Science & ML</h4>
+<p>
+  <img src="badges/pytorch.svg" alt="PyTorch" height="20px"/>
+  <img src="badges/tensorflow.svg" alt="TensorFlow" height="20px"/>
+</p>
 
+<h4>Web & App Development</h4>
+<p>
+  <img src="badges/svelte.svg" alt="Svelte" height="20px"/>
+  <img src="badges/astro.svg" alt="Astro" height="20px"/>
+  <img src="badges/vite.svg" alt="Vite" height="20px"/>
+  <img src="badges/nodejs.svg" alt="Node.js" height="20px"/>
+  <img src="badges/html.svg" alt="HTML5" height="20px"/>
+  <img src="badges/css.svg" alt="CSS" height="20px"/>
+  <img src="badges/nginx.svg" alt="NGINX" height="20px"/>
+</p>
 
-  
+<h4>Data & Tools</h4>
+<p>
+  <img src="badges/sqlite.svg" alt="SQLite" height="20px"/>
+  <img src="badges/mysql.svg" alt="MySQL" height="20px"/>
+  <img src="badges/git.svg" alt="Git" height="20px"/>
+  <img src="badges/docker.svg" alt="Docker" height="20px"/>
+</p>
 
-  <h4>Databases</h4>
-  <p>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite2.svg" alt="sqlite" height="20px"/> 
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" alt="SQL" height="20px"/> 
-  </p>
-
-  <h4>Dev Tools</h4>
-  <p>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git" height="20px"/> 
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" alt="Docker" height="20px"/> 
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg" alt="npm" height="20px"/> 
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg" alt="Markdown" height="20px"/> 
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json2.svg" alt="JSON" height="20px"/>
-  </p>
-
-  <h4>Other Tools</h4>
-  <p>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian2.svg" alt="Obsidian" height="20px"/>
-  </p>
-
-  <h4>Operating Systems</h4>
-  <p>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows112.svg" alt="Windows 11" height="20px"/> 
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora2.svg" alt="Fedora" height="20px"/> 
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailsOS/tailsos2.svg" alt="Tails" height="20px"/> 
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" alt="Android" height="20px"/>
-  </p>
 </div>
 
 <br>
-<br> 
+<br>
 
 ![Footer](Banner_lseu_bottom.png)
